@@ -14,3 +14,6 @@ Settings Page : Do necessary settings wrt LAN IP, Wifi Etc!
 ![dashboardscreen](https://user-images.githubusercontent.com/115712041/195787443-4a99a039-c5b9-40bb-8977-858c162655df.png)
 ![settings_2](https://user-images.githubusercontent.com/115712041/195787487-78aaa442-dff2-403b-aa3d-72d416348945.png)
 ![settings_1](https://user-images.githubusercontent.com/115712041/195787540-5ca68768-b95e-4956-9e4c-89e508c76bd9.png)
+
+Please support project:
+<div> <a style=" width: 135px; background-color: #1065b7; text-align: center; font-weight: 800; padding: 11px 0px; color: white; font-size: 12px; display: inline-block; text-decoration: none; " href='https://pmny.in/yrTMiytBiatl' > Donate Now </a> </div>
