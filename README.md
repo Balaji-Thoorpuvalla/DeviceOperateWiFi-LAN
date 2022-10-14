@@ -11,12 +11,6 @@ It will be 2 Page GUI : Dashboard Page , Settings Page
 Dashboard Page : Operation/Execution of & Status of commands through buttons & its display
 Settings Page : Do necessary settings wrt LAN IP, Wifi Etc!
 
-
-[dashboardscreen](https://user-images.githubusercontent.com/115712041/195787059-be32c7ed-6271-4b8f-9881-02693e3833a8.png)
-
-
-
-![settings_1](https://user-images.githubusercontent.com/115712041/195787173-afb9ac8f-6b7e-4d1d-8037-a4e30d663c7f.png)
-
-
-![settings_2](https://user-images.githubusercontent.com/115712041/195787224-d338e7e1-3176-4560-b263-42fa85acc728.png)
+![dashboardscreen](https://user-images.githubusercontent.com/115712041/195787443-4a99a039-c5b9-40bb-8977-858c162655df.png)
+![settings_2](https://user-images.githubusercontent.com/115712041/195787487-78aaa442-dff2-403b-aa3d-72d416348945.png)
+![settings_1](https://user-images.githubusercontent.com/115712041/195787540-5ca68768-b95e-4956-9e4c-89e508c76bd9.png)
